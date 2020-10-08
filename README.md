@@ -20,6 +20,14 @@ npm run build
 npm run lint
 ```
 
+### API FOR PART BEST SELLING FLOWERS & GIFTS
+```
+    Document Editable:
+    https://www.npoint.io/docs/247a3a4bc0b8ac0a0c36
+    API:
+    https://api.npoint.io/247a3a4bc0b8ac0a0c36 (Postman/Insomnia)
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# desing_mockup" 
