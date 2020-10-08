@@ -113,7 +113,7 @@
     components: {
     },
     created() {
-        this.products = store.getters.getItems.length;
+        !!store.getters.getItems ? this.products = store.getters.getItems.length : this.products = [] ;
         axios.get('/247a3a4bc0b8ac0a0c36').then(
           response =>{
             this.bestSellingProducts = [];

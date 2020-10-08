@@ -70,7 +70,7 @@
     },
     updateValue: function () {
         this.noVisible = false;
-        if(store.getters.getItems.length > 0){
+        if(!!store.getters.getItems){
             let total = 0;
             let productos = 0;
             this.compra = store.getters.getItems;
