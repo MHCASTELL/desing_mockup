@@ -21,13 +21,13 @@ npm run lint
 ```
 
 ### API FOR PART BEST SELLING FLOWERS & GIFTS
-```
-    JSON:
-    [API](https://www.npoint.io/docs/247a3a4bc0b8ac0a0c36)
-    
-    API:
-    https://api.npoint.io/247a3a4bc0b8ac0a0c36 (Postman/Insomnia)
-```
+
+JSON:
+[API](https://www.npoint.io/docs/247a3a4bc0b8ac0a0c36).
+
+API:
+https://api.npoint.io/247a3a4bc0b8ac0a0c36 (Postman/Insomnia)
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
