@@ -3,7 +3,6 @@ import App from './App.vue';
 import vuetify from './plugins/vuetify';
 import './lib/desing_mockup';
 import axios from 'axios';
-import store from './store/index';
  
 //import material-icon scss
 import "font-awesome/css/font-awesome.min.css";
@@ -27,6 +26,5 @@ Vue.component('CarShop', require('./components/CarShop.vue').default);
 Vue.config.productionTip = false;
 new Vue({
   vuetify,
-  store,
   render: h => h(App),
 }).$mount('#app')
