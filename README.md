@@ -1,6 +1,5 @@
 # desing_mockup
-##DEMO
-See [DEMO](http://desing-mockup.mtecmexico.com/).
+[DEMO](http://desing-mockup.mtecmexico.com/).
 ## Project setup
 ```
 npm install
@@ -23,8 +22,9 @@ npm run lint
 
 ### API FOR PART BEST SELLING FLOWERS & GIFTS
 ```
-    Document Editable:
-    https://www.npoint.io/docs/247a3a4bc0b8ac0a0c36
+    JSON:
+    [API](https://www.npoint.io/docs/247a3a4bc0b8ac0a0c36)
+    
     API:
     https://api.npoint.io/247a3a4bc0b8ac0a0c36 (Postman/Insomnia)
 ```
